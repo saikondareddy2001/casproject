@@ -1,0 +1,25 @@
+16:08:20.094 [main] INFO  TestCases.TC001_beCognizant - validating the header
+16:08:21.828 [main] INFO  TestCases.TC001_beCognizant - three weeks of timesheet
+16:08:28.901 [main] INFO  TestBase.baseClass - closing the browser
+16:09:17.809 [main] INFO  TestCases.TC001_beCognizant - ***** starting TC001_beCognizant *****
+16:09:18.235 [main] INFO  TestCases.TC001_beCognizant - clicked on profile
+16:09:19.241 [main] INFO  TestCases.TC001_beCognizant - verified the account
+16:09:43.199 [main] INFO  TestCases.TC001_beCognizant - opening the OneCognizant
+16:10:03.266 [main] INFO  TestCases.TC001_beCognizant - handled the OneCognizant window
+16:10:03.972 [main] INFO  TestCases.TC001_beCognizant - Navigated to OneCognizant
+16:10:04.980 [main] INFO  TestCases.TC001_beCognizant - clicked on search Icon
+16:10:06.386 [main] INFO  TestCases.TC001_beCognizant - input timesheet in search bar
+16:10:17.230 [main] INFO  TestCases.TC001_beCognizant - handled the timesheet window
+16:10:17.234 [main] INFO  TestCases.TC001_beCognizant - Navigated to timesheet
+16:11:13.959 [main] INFO  TestCases.TC001_beCognizant - validating the header
+16:11:15.515 [main] INFO  TestCases.TC001_beCognizant - three weeks of timesheet
+16:11:21.045 [main] INFO  TestCases.TC001_beCognizant - Displayed current week
+16:11:52.814 [main] INFO  TestCases.TC001_beCognizant - displayed  tsStatusApproved
+16:12:08.739 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusOverdue
+16:12:24.604 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusPartiallyApproved
+16:12:40.439 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusPending 
+16:12:56.221 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusSaved
+16:13:12.169 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusSentBackforRevision
+16:13:28.091 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusSubmittedforApproval
+16:13:28.334 [main] INFO  TestCases.TC001_beCognizant - ***** closing the browser *****
+16:13:29.720 [main] INFO  TestBase.baseClass - closing the browser
